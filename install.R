@@ -3,7 +3,6 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 BiocManager::install("dada2", version = "3.8")
 
 install.packages("vegan")
-install.packages("ggplot2")
 install.packages("dendextend")
 install.packages("tidyr")
 install.packages("viridis")

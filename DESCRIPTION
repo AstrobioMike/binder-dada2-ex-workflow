@@ -1,0 +1,14 @@
+Package: Dada2BinderWorkflowEx
+Version: 0.1
+Date: 2019-04-29
+Description: Goes with tutorial
+Author: Mike Lee <mike.lee@nasa.gov>
+Depends:
+    R (>= 3.5.0)
+Imports:
+    vegan,
+    ggplot2,
+    dendextend,
+    tidyr,
+    viridis,
+    reshape,
