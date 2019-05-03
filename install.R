@@ -11,5 +11,5 @@ biocLite("ShortRead", suppressUpdates = FALSE)
 
 install.packages("devtools")
 library("devtools")
-devtools::install_github("tidyverse/ggplot2")
 devtools::install_github("benjjneb/dada2")
+devtools::install_github("benjjneb/decontam")
