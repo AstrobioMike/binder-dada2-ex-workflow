@@ -2,6 +2,8 @@ install.packages("vegan")
 install.packages("dendextend")
 install.packages("tidyr")
 install.packages("viridis")
+install.packages("reshape")
+
 
 source("https://bioconductor.org/biocLite.R")
 biocLite(suppressUpdates = FALSE)
@@ -10,6 +12,5 @@ biocLite("DESeq2")
 biocLite("ShortRead", suppressUpdates = FALSE)
 
 install.packages("devtools")
-library("devtools")
 devtools::install_github("benjjneb/dada2")
 devtools::install_github("benjjneb/decontam")
