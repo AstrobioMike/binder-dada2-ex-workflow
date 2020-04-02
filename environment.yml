@@ -1,8 +1,0 @@
-name: dada2-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - pip
-  - pip:
-    - cutadapt
