@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - cutadapt=2.3
-  - r-base=3.4
+  - r-base=3.6
   - r-tidyverse
   - r-vegan
   - r-dendextend
