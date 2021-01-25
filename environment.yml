@@ -3,6 +3,7 @@ channels:
   - bioconda
   - defaults
 dependencies:
+  - cutadapt=2.3
   - r-base=3.4.4
   - r-tidyverse
   - r-vegan
