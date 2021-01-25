@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=3.4.4
+  - r-tidyverse
+  - r-vegan
+  - r-dendextend
+  - r-viridis
+  - r-reshape
+  - bioconductor-phyloseq
+  - bioconductor-deseq2
+  - bioconductor-decontam
