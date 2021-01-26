@@ -13,3 +13,4 @@ dependencies:
   - bioconductor-phyloseq
   - bioconductor-deseq2
   - bioconductor-decontam
+  - bioconductor-dada2
