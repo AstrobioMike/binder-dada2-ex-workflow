@@ -16,3 +16,4 @@ dependencies:
   - bioconductor-decontam=1.6
   - r-biocmanager=1.30
   - r-matrix=1.3_2
+  - r-unix=1.5
