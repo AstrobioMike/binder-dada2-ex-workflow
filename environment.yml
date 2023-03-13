@@ -3,16 +3,16 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - cutadapt
-  - r-base
-  - r-tidyverse
-  - r-vegan
-  - r-dendextend
-  - r-viridis
-  - bioconductor-phyloseq
-  - bioconductor-deseq2
-  - bioconductor-dada2
-  - bioconductor-decipher
-  - bioconductor-decontam
-  - r-biocmanager
-  - r-matrix
+  - cutadapt=4.2
+  - r-base=4.0
+  - r-tidyverse=1.3
+  - r-vegan=2.6
+  - r-dendextend=1.16
+  - r-viridis=0.6
+  - bioconductor-phyloseq=1.34
+  - bioconductor-deseq2=1.30
+  - bioconductor-dada2=1.18
+  - bioconductor-decipher=2.18
+  - bioconductor-decontam=1.10
+  - r-biocmanager=1.30
+  - r-matrix=1.4
